@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://paulweezydesign.github.io/csb-87x8h2/static/css/main.f0c77646.chunk.css",
+    "main.js": "https://paulweezydesign.github.io/csb-87x8h2/static/js/main.b8afd772.chunk.js",
+    "main.js.map": "https://paulweezydesign.github.io/csb-87x8h2/static/js/main.b8afd772.chunk.js.map",
+    "runtime-main.js": "https://paulweezydesign.github.io/csb-87x8h2/static/js/runtime-main.0d2feaa9.js",
+    "runtime-main.js.map": "https://paulweezydesign.github.io/csb-87x8h2/static/js/runtime-main.0d2feaa9.js.map",
+    "static/js/2.fbd2f619.chunk.js": "https://paulweezydesign.github.io/csb-87x8h2/static/js/2.fbd2f619.chunk.js",
+    "static/js/2.fbd2f619.chunk.js.map": "https://paulweezydesign.github.io/csb-87x8h2/static/js/2.fbd2f619.chunk.js.map",
+    "index.html": "https://paulweezydesign.github.io/csb-87x8h2/index.html",
+    "static/css/main.f0c77646.chunk.css.map": "https://paulweezydesign.github.io/csb-87x8h2/static/css/main.f0c77646.chunk.css.map",
+    "static/js/2.fbd2f619.chunk.js.LICENSE.txt": "https://paulweezydesign.github.io/csb-87x8h2/static/js/2.fbd2f619.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d2feaa9.js",
+    "static/js/2.fbd2f619.chunk.js",
+    "static/css/main.f0c77646.chunk.css",
+    "static/js/main.b8afd772.chunk.js"
+  ]
+}
